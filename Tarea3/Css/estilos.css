@@ -1,0 +1,191 @@
+.contenedor1{
+    background-color: rgba(154, 61, 241, 0.822);
+    padding: 10px;
+    display:flex;
+    flex-direction: row;
+    
+    height: 700px;
+    align-content: center;
+}
+.caja1{
+    background-color: rgba(151, 253, 255, 0.659);
+    margin: 10px;
+    width: 500px;
+    align-content: space-around;
+    
+}
+.subcaja{
+    
+    position: relative;
+    
+    top:50px;
+    left:30px;
+
+    
+
+}
+.subcaja1{
+    background-color: rgba(56, 58, 180, 0.659);
+    height: 250px;
+    width: 120px;
+    display: inline-block;
+    margin:15px;
+    
+}
+
+.subcaja2{
+    background-color: rgba(56, 58, 180, 0.659);
+    height: 250px;
+    width: 120px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja3{
+    background-color: rgba(56, 58, 180, 0.659);
+    height: 250px;
+    width: 120px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja4{
+    background-color: rgba(56, 58, 180, 0.659);
+    height: 250px;
+    width: 120px;
+    display: inline-block;
+    margin:15px;
+}
+    
+.caja2{
+    background-color: rgb(236, 143, 208);
+    margin: 10px;
+    width: 1000px;
+    
+}
+.subcaja2d
+{
+    position: relative;
+    
+    top:25px;
+    left:50px;
+    
+}
+.subcaja5{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+
+.subcaja6{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja7{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja8{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja9{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja10{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja11{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja12{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+.subcaja13{
+    background-color: rgba(205, 16, 92, 0.659);
+    height: 190px;
+    width: 190px;
+    display: inline-block;
+    margin:10px;
+}
+
+.caja3{
+    background-color: rgb(160, 240, 184);
+    margin: 10px;
+    width: 500px;
+    
+}
+.subcaja3d
+{
+    position: relative;
+    left: 50px;
+    top: 25px;
+
+}
+.subcaja14{
+    background-color: rgba(17, 167, 122, 0.659);
+    height: 100px;
+    width: 240px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja15{
+    background-color: rgba(17, 167, 122, 0.659);
+    height: 160px;
+    width: 100px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja16{
+    background-color: rgba(17, 167, 122, 0.659);
+    height: 160px;
+    width: 100px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja17{
+    background-color: rgba(17, 167, 122, 0.659);
+    height: 100px;
+    width: 240px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja18{
+    background-color: rgba(17, 167, 122, 0.659);
+    height: 160px;
+    width: 100px;
+    display: inline-block;
+    margin:15px;
+}
+.subcaja19{
+    background-color: rgba(17, 167, 122, 0.659);
+    height: 160px;
+    width: 100px;
+    display: inline-block;
+    margin:15px;
+}
